@@ -1,0 +1,21 @@
+.flex {
+    margin: auto;
+    display: flex;
+    width: 1000px;
+    font-size: 20px;
+    text-align: center;
+    background-color: bisque;
+    height: 500px;
+    align-items: flex-start;
+}
+
+.item {
+    border: 5px #ed7635 solid;
+    background-color: #ed9d4f;
+    padding: 20px;
+    margin: 5px;
+    color: #fff9c4;
+    /*height: 50px;*/
+}
+
+
